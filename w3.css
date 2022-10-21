@@ -394,3 +394,7 @@ body {
 .ho {
   filter: brightness(50%);
 }
+
+.ho2 {
+  padding-top: 30px;
+}
